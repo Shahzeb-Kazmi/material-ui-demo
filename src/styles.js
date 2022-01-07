@@ -33,7 +33,7 @@ const useStyles = makeStyles((theme) => ({
     },
 
     footer: {
-        background: theme.palette.backgroundColor.paper,
+        background: theme.palette.background.paper,
         padding: '50px 0'
     }
 
